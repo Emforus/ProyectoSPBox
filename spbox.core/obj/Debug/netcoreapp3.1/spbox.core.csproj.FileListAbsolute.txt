@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.core\bin\Debug\netcoreapp3.1\spbox.core.deps.json
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.core\bin\Debug\netcoreapp3.1\spbox.core.dll
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.core\bin\Debug\netcoreapp3.1\spbox.core.pdb
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.core\obj\Debug\netcoreapp3.1\spbox.core.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.core\obj\Debug\netcoreapp3.1\spbox.core.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.core\obj\Debug\netcoreapp3.1\spbox.core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.core\obj\Debug\netcoreapp3.1\spbox.core.dll
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.core\obj\Debug\netcoreapp3.1\spbox.core.pdb
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.core\obj\Debug\netcoreapp3.1\spbox.core.csproj.AssemblyReference.cache

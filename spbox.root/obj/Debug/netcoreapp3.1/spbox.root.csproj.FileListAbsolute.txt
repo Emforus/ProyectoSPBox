@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\bin\Debug\netcoreapp3.1\spbox.root.deps.json
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\bin\Debug\netcoreapp3.1\spbox.root.dll
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\bin\Debug\netcoreapp3.1\spbox.root.pdb
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\bin\Debug\netcoreapp3.1\spbox.business.dll
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\bin\Debug\netcoreapp3.1\spbox.core.dll
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\bin\Debug\netcoreapp3.1\spbox.data.dll
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\bin\Debug\netcoreapp3.1\spbox.business.pdb
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\bin\Debug\netcoreapp3.1\spbox.data.pdb
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\bin\Debug\netcoreapp3.1\spbox.core.pdb
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\obj\Debug\netcoreapp3.1\spbox.root.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\obj\Debug\netcoreapp3.1\spbox.root.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\obj\Debug\netcoreapp3.1\spbox.root.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\obj\Debug\netcoreapp3.1\spbox.root.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\obj\Debug\netcoreapp3.1\spbox.root.csproj.CopyComplete
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\obj\Debug\netcoreapp3.1\spbox.root.dll
+C:\Users\Asus\source\repos\ProyectoSPBox\spbox.root\obj\Debug\netcoreapp3.1\spbox.root.pdb
